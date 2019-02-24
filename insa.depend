@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464354596 source:c:\users\teeto\documents\spd\insa\insa\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<time.h>
+	<algorithm>
+	<string>
+	<climits>
+	<ctime>
+
